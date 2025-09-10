@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm gchh1
 
-<!--
-**gchh1/gchh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate developer who loves coding, open-source, and building cool stuff.  
+💡 Interests: Backend Development | Algorithms | Data Visualization  
+📫 Reach me at: [your email or blog link]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinY1&show_icons=true&theme=radical)
+
+## 📈 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinY1&layout=compact&theme=radical)
+
+---
+
+## ⏱️ Coding Activity (via WakaTime)
+<!--START_SECTION:waka-->
+```txt
+No activity tracked this week
+
