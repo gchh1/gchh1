@@ -7,10 +7,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YinY1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gchh1&show_icons=true&theme=radical)
 
 ## 📈 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinY1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchh1&layout=compact&theme=radical)
 
 ---
 
